@@ -2,7 +2,7 @@ terraform {
   cloud {
     organization = "mitchduncan"
     workspaces {
-      name = "foobar"
+      name = "ec2-instance"
     }
   }
 
